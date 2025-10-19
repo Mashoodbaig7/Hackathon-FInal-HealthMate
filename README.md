@@ -1,3 +1,6 @@
+<img width="1920" height="1026" alt="image" src="https://github.com/user-attachments/assets/de0a8f56-1960-498d-842d-8cbdb94924c5" />
+
+
 # HealthMate - Sehat ka Smart Dost 🏥
 
 A bilingual (English + Roman Urdu) AI-powered personal health companion app built with React and Node.js, featuring Gemini AI for medical report analysis.
@@ -203,9 +206,11 @@ Built with ❤️ for the healthcare community.
 
 ## 📞 Support
 
-For support, email support@healthmate.com or join our community chat.
+For support, email mashoodbaig567@gmail.com or join our community chat.
 
 ---
 
 **Disclaimer**: HealthMate is for educational and informational purposes only. Always consult healthcare professionals for medical advice.
 "# Hackathon-FInal-HealthMate" 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b92e34f-8617-4a40-b174-a3d7a284ce3b" />
+
